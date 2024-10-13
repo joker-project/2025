@@ -18,6 +18,13 @@ Over the last years, the JOKER Track has created an active community of research
 - **Task 2 (Wordplay Translation):** translate puns from English to French. 
 - **Task 3 (Funny Names):** detect and translate pun names. 
 - **Task 4 (Controlled Creativity):** identify and avoid hallucination.
+  The JOKER lab aims to bring together linguists and computer scientists to create reusable test collections to foster work on automatic humor analysis. To encourage research in humor-aware information retrieval, JOKER 2024 introduced a new task that focuses on retrieving short humorous texts from a document collection. 
+
+The intended use case is to search for a joke on a specific topic. This can be useful for:
+- Humor researchers in the humanities,
+- Second-language learners as a learning aid,
+- Professional comedians as a writing aid,
+- Translators who might need to adapt certain jokes to other cultures.
 
 ### Relevance to CLEF and the significance for the field
 JOKER lies at the intersection of multiple fields, including natural language processing, information retrieval, AI, and human-computer interaction, as well as linguistics, philosophy, and psychology. As we showed in JOKER-2023 [1], [2], automatic humor analysis, including wordplay detection, is still a challenge even for LLMs. To assess the performance of models it is crucial to have test collections and standardized benchmarks. These resources are also valuable for the evaluation of model performance even in the case of zero and few-shot settings. A few humour corpora do exist, including the datasets created for shared tasks of the International Workshop on Semantic Evaluation (SemEval): #HashtagWars: Learning a Sense of Humor [3], Detection and Interpretation of English Puns [4], Assessing Humor in Edited News Headlines [5], and Hackathon: Detecting and Rating Humor and Offense [6]. In [7] the authors collected 16,000 humorous sentences and an equal number of negative samples from news titles, proverbs, the British National Corpus, and the Open Mind Common-Sense dataset. Another dataset contains 2,400 puns and non-puns from news sources, Yahoo!Answers, and proverbs [8], [9]. Most datasets are in English, with some notable exceptions in Italian [10], Russian [11], [12], and Spanish [13]. To the best of our knowledge, the corpus we constructed within the frame of the JOKER track [1], [2] is the first one for wordplay detection in French. To create a new corpus that includes advanced sentiment and humor category labels, we will reuse the existing English corpora as a starting point. 
