@@ -1,7 +1,7 @@
 
 # JOKER
 <p align="center">
-  <img src="joker.png" width="120" height="142">
+  <img src="./img/joker.png" width="120" height="142">
 </p>
 
 {% include navbar.md %}
