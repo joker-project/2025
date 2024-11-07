@@ -10,7 +10,7 @@
   <h2 align="center">Automatic Humour Analysis</h2> 
 
 ### Tasks, evaluation setup, and metrics
-In the edition, we propose three shared tasks:
+In the edition, we propose four shared tasks:
 * **Task 1: Humour-aware information retrieval** Retrieving short humorous texts from a document collectionbased on a given query. The retrieved texts should fulfill the dualcriteria of being relevant to the query and being instances of wordplay. 
 * **Task 2: Wordplay Translation** Translating English punning jokes into French. Translations should aim to preserve, to the extent possible, both the form and meaning of the original wordplay.
 * **Task 3: Funny Names** A new task that is based on the extensions of the JOKER corpus 2022. Funny names are difficult to detect for modern AI and NLP models. The task asks to detect “funny names, and translate them from English to French. 
