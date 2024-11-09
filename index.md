@@ -14,11 +14,7 @@
 
 Over the last years, the JOKER Track has created an active community of researchers in NLP and IR working together on non-literal use of language in text—which is still challenging for both AI models and humans as it requires understanding implicit cultural references or double meanings. Its benchmarks on humorous text analysis, retrieval, and translation have become standard references. We propose significant changes in the track’s setup and tasks. The CLEF 2025 JOKER track will contain the following 3+1 tasks: 
 
-- **Task 1 (Humor-aware Information Retrieval):** retrieve short humorous texts for a query. 
-- **Task 2 (Wordplay Translation):** translate puns from English to French. 
-- **Task 3 (Funny Names):** detect and translate pun names. 
-- **Task 4 (Controlled Creativity):** identify and avoid hallucination.
-  The JOKER lab aims to bring together linguists and computer scientists to create reusable test collections to foster work on automatic humor analysis. To encourage research in humor-aware information retrieval, JOKER 2024 introduced a new task that focuses on retrieving short humorous texts from a document collection. 
+The JOKER lab aims to bring together linguists and computer scientists to create reusable test collections to foster work on automatic humor analysis. To encourage research in humor-aware information retrieval, JOKER 2024 introduced a new task that focuses on retrieving short humorous texts from a document collection. 
 
 The intended use case is to search for a joke on a specific topic. This can be useful for:
 - Humor researchers in the humanities,
@@ -43,10 +39,11 @@ The goal of the JOKER lab is to bring together linguists and computer scientists
 To encourage research in humor-aware information retrieval, JOKER 2024 introduced a new task aimed at retrieving short humorous texts from a document collection. 
 
 The intended use case is to search for a joke on a specific topic. This can be useful for:
-- Humor researchers in the humanities,
-- Second-language learners as a learning aid,
-- Professional comedians as a writing aid,
-- Translators who need to adapt jokes for different cultures.
+- Humor researchers in the humanities
+- Second-language learners as a learning aid
+- Professional comedians as a writing aid
+- Translators who need to adapt jokes for different cultures
+
 ### 3.1 Task 1: Humor-aware Information Retrieval
 
 The goal of this task is to retrieve short humorous texts from a document collection based on a given query. The retrieved texts must meet two criteria: they should be relevant to the query and involve wordplay. A typical use case would be searching for a joke on a specific topic – for example, a query for "math" would aim to find math-related jokes, while a query for "Tom" would seek jokes about someone named Tom.
