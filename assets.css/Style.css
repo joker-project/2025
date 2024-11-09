@@ -1,9 +1,9 @@
 @import "{{ site.theme }}";
-#header-color {
+# header-color {
      background-image:url("https://github.com/joker-project/CLEF-2024/blob/main/img/bodychange1.png");
      background-color:#E6E6FA; !important;
 
 }
-#banner { 
+# banner { 
     background:#95bfba;
 }
