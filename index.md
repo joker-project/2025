@@ -1,4 +1,4 @@
-<div style="background-color: #E6E6FA;>
+<div style="background-color: #E6E6FA; tet-align: center;>
 # JOKER
 <p align="center">
   <img src="./img/joker.png" width="120" height="142">
