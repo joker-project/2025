@@ -10,7 +10,7 @@
   <h1 align="center">CLEF 2025 JOKER Track:</h1>
   <h2 align="center">Automatic Humour Analysis</h2> 
 
-  ## Abstract
+## Abstract
   
   Over the last years, the JOKER Track has created an active community of researchers in NLP and IR working together on non-literal use of language in text—which is still challenging for both AI models and humans as it requires understanding implicit cultural references or double meanings. Its benchmarks on humorous text analysis, retrieval, and translation have become standard references. We propose significant changes in the track’s setup and tasks. The CLEF 2025 JOKER track will contain the following 3+1 tasks: 
   
@@ -22,7 +22,7 @@
   - Professional comedians as a writing aid,
   - Translators who might need to adapt certain jokes to other cultures.
   
-  ## 1. Title, Description, and Relevance
+## 1. Title, Description, and Relevance
   
   We propose to retain the now well-established title: **CLEF 2025 JOKER Track: Automatic Humor Analysis**.
   
@@ -44,7 +44,7 @@
   - Professional comedians as a writing aid
   - Translators who need to adapt jokes for different cultures
   
-  ## References
+## References
   
   1. Liana Ermakova, Anne-Gwenn Bosser, Adam Jatowt, and Tristan Miller. 2023a. The JOKER corpus: English-french parallel data for multilingual word- play recognition. In Proceedings of the 46th Inter- national ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2023, Taipei, Taiwan, July 23-27, 2023, pages 2796–2806.ACM.
   
@@ -77,7 +77,7 @@
   14. Victor Manuel Palma-Preciado et al. 2024. Overview of the CLEF 2024 JOKER task 2: Humour classification according to genre and technique. In Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2024), CEUR Workshop Proceedings. CEUR-WS.org.
   
   
-  ## How to Cite
+## How to Cite
   If you extend or use this work, please cite the [paper](https://link.springer.com/chapter/10.1007/978-3-031-13643-6_27) where it was introduced:
   
   > Liana Ermakova, Anne-Gwenn Bosser, Tristan Miller, Tremaine Thomas-Young, Victor Manuel Palma Preciado, Grigori Sidorov, and Adam Jatowt. *[CLEF 2024 JOKER lab: Automatic humour analysis.](https://link.springer.com/content/pdf/10.1007/978-3-031-56072-9_5.pdf)* In Nazli Goharian, Nicola Tonellotto, Yulan He, Aldo Lipani, Graham McDonald, Craig Macdonald, and Iadh Ounis, editors, _[Advances in Information Retrieval: 46th European Conference on Information Retrieval, ECIR 2024, Glasgow, UK, March 24–28, Proceedings, Part VI](https://link.springer.com/book/10.1007/978-3-031-56072-9)_, volume 14613 of Lecture Notes in Computer Science (ISSN 0302-9743), pages 36–43, Cham, March 2024. Springer. ISBN 978-3-031-56072-9. DOI: [10.1007/978-3-031-56072-9_5](https://dx.doi.org/10.1007/978-3-031-56072-9_5).
