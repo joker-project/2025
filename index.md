@@ -10,85 +10,85 @@
   <h1 align="center">CLEF 2025 JOKER Track:</h1>
   <h2 align="center">Automatic Humour Analysis</h2> 
 
-## Abstract
-
-Over the last years, the JOKER Track has created an active community of researchers in NLP and IR working together on non-literal use of language in text—which is still challenging for both AI models and humans as it requires understanding implicit cultural references or double meanings. Its benchmarks on humorous text analysis, retrieval, and translation have become standard references. We propose significant changes in the track’s setup and tasks. The CLEF 2025 JOKER track will contain the following 3+1 tasks: 
-
-The JOKER lab aims to bring together linguists and computer scientists to create reusable test collections to foster work on automatic humor analysis. To encourage research in humor-aware information retrieval, JOKER 2024 introduced a new task that focuses on retrieving short humorous texts from a document collection. 
-
-The intended use case is to search for a joke on a specific topic. This can be useful for:
-- Humor researchers in the humanities,
-- Second-language learners as a learning aid,
-- Professional comedians as a writing aid,
-- Translators who might need to adapt certain jokes to other cultures.
-
-## 1. Title, Description, and Relevance
-
-We propose to retain the now well-established title: **CLEF 2025 JOKER Track: Automatic Humor Analysis**.
-
-State-of-the-art AI, NLP, and IR models are still not able to handle humor or other non-literal aspects of text naturally (Ermakova et al., 2023a). Specifically, tasks like wordplay detection or analysis, which can involve the surface structure or orthography of a word or its pronunciation, present significant challenges.
-
-These tasks rely on word surface aspects that are not captured in the deep semantic embeddings of modern AI models. Current pre-training models, which are based on next-word prediction objectives, also fail to account for these non-literal language features.
-
-## 2. Use Case
-
-Humor is one of the most important aspects of social interaction. Despite significant advances in AI and NLP, understanding humor remains a challenge, as it often involves grasping implicit cultural references and/or double meanings. 
-
-The goal of the JOKER lab is to bring together linguists and computer scientists to create reusable test collections that foster work on automatic humor analysis.
-
-To encourage research in humor-aware information retrieval, JOKER 2024 introduced a new task aimed at retrieving short humorous texts from a document collection. 
-
-The intended use case is to search for a joke on a specific topic. This can be useful for:
-- Humor researchers in the humanities
-- Second-language learners as a learning aid
-- Professional comedians as a writing aid
-- Translators who need to adapt jokes for different cultures
-
-## References
-
-1. Liana Ermakova, Anne-Gwenn Bosser, Adam Jatowt, and Tristan Miller. 2023a. The JOKER corpus: English-french parallel data for multilingual word- play recognition. In Proceedings of the 46th Inter- national ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2023, Taipei, Taiwan, July 23-27, 2023, pages 2796–2806.ACM.
-
-2. Liana Ermakova, Tristan Miller, Anne-Gwenn Bosser, Victor Manuel Palma Preciado, Grigori Sidorov, and Adam Jatowt. 2023b. Overview of JOKER 2023 Automatic Wordplay Analysis Task 1 – pun detection. In Working Notes of CLEF 2023 – Conference and Labs of the Evaluation Forum, volume 3497 of CEUR Workshop Proceedings, pages 1785–1803.
-
-3. Liana Ermakova, Tristan Miller, Anne-Gwenn Bosser, Victor Manuel Palma Preciado, Grigori Sidorov, and Adam Jatowt. 2023c. Overview of JOKER 2023 Au- tomatic Wordplay Analysis Task 2 – pun location and interpretation. In Working Notes of CLEF 2023 – Conference and Labs of the Evaluation Forum, vol- ume 3497 of CEUR Workshop Proceedings, pages 1804–1817.
-
-4. Liana Ermakova, Tristan Miller, Anne-Gwenn Bosser, Victor Manuel Palma Preciado, Grigori Sidorov, and Adam Jatowt. 2023d. Overview of JOKER 2023 Automatic Wordplay Analysis Task 3 – pun translation. In Working Notes of CLEF 2023 – Conference and Labs of the Evaluation Forum, volume 3497 of CEUR Workshop Proceedings, pages 1818–1827.
-
-5. Liana Ermakova, Tristan Miller, Anne-Gwenn Bosser, Victor Manuel Palma Preciado, Grigori Sidorov, and Adam Jatowt. 2023e. Overview of JOKER – CLEF-2023 track on automatic wordplay analysis. In Avi Arampatzis, Evangelos Kanoulas, Theodora Tsikrika, Stefanos Vrochidis, Anastasia Giachanou, Dan Li, Mohammad Aliannejadi, Michalis Vlachos, Guglielmo Faggioli, and Nicola Ferro, editors, Experimental IR Meets Multilinguality, Multimodality, and Interaction, volume 14163, pages 397–415. Springer Nature Switzerland, Cham.
-
-6. Liana Ermakova, Tristan Miller, Anne-Gwenn Bosser, Victor Manuel Palma Preciado, Grigori Sidorov, and Adam Jatowt. 2023f. Science for fun: The CLEF 2023 JOKER track on automatic wordplay analysis. In Advances in Information Retrieval: 45th European Conference on Information Retrieval, ECIR 2023, Dublin, Ireland, April 2 6, Proceedings, Part III, volume 13982 of Lecture Notes in Computer Science, pages 546–556, Berlin, Heidelberg. Springer.
-
-7. Liana Ermakova, Tristan Miller, Anne-Gwenn Bosser, Victor Manuel Palma-Preciado, Grigori Sidorov, and Adam Jatowt. 2024a. Overview of the CLEF 2024 JOKER track: Automatic humor analysis. In Experimental IR Meets Multilinguality, Multimodality, and Interaction. Proceedings of the Fifteenth Inter- national Conference of the CLEF Association (CLEF 2024), Lecture Notes in Computer Science. Springer.
-
-8. Liana Ermakova, Tristan Miller, Orlane Puchalski, Fabio Regattin, Élise Mathurin, Sílvia Araújo, Anne-Gwenn Bosser, Claudine Borg, Monika Bokiniec, Gaelle Le Corre, Benoît Jeanjean, Radia Hannachi,˙Gor ˙g Mallia, Gordan Matas, and Mohamed Saki.2022a. CLEF workshop JOKER: Automatic word-play and humour translation. In Matthias Hagen, Suzan Verberne, Craig Macdonald, Christin Seifert, Krisztian Balog, Kjetil Nørvåg, and Vinay Setty, editors, Advances in Information Retrieval, volume 13186 of Lecture Notes in Computer Science, pages 355–363. Springer International Publishing, Cham.
-
-9. Liana Ermakova, Tristan Miller, Fabio Regattin, Anne-Gwenn Bosser, Élise Mathurin, Gaelle Le Corre, Sílvia Araújo, Julien Boccou, Albin Digue, Auri- anne Damoy, and Benoît Jeanjean. 2022b. Overview
-of JOKER@CLEF 2022: Automatic wordplay and humour translation workshop. In Experimental IR Meets Multilinguality, Multimodality, and Interaction. Proceedings of the Thirteenth International Confer- ence of the CLEF Association (CLEF 2022), volume 13390 of Lecture Notes in Computer Science, pages 447–469.
-
-10. Liana Ermakova et al. 2024b. Overview of the CLEF 2024 JOKER task 1: Humour-aware information re-
-trieval. In Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2024), CEUR Work-shop Proceedings. CEUR-WS.org.
-
-11. Liana Ermakova et al. 2024c. Overview of the CLEF 2024 JOKER task 3: Translate puns from english to french. In Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2024), CEUR Workshop Proceedings. CEUR-WS.org.
-
-12. Timothee Mickus, Elaine Zosa, Raul Vazquez, Teemu Vahtola, Jörg Tiedemann, Vincent Segonne, Alessandro Raganato, and Marianna Apidianaki. 2024. SemEval-2024 task 6: SHROOM, a shared-task on hallucinations and related observable overgeneration mistakes. In Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024), pages 1979–1993, Mexico City, Mexico. Association for Computational Linguistics.
-
-13. Tristan Miller, Christian F. Hempelmann, and Iryna Gurevych. 2017. SemEval-2017 Task 7: Detection and interpretation of English puns. In Proceedings of the 11th International Workshop on Semantic Evaluation, pages 58–68.
-
-14. Victor Manuel Palma-Preciado et al. 2024. Overview of the CLEF 2024 JOKER task 2: Humour classification according to genre and technique. In Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2024), CEUR Workshop Proceedings. CEUR-WS.org.
-
-
-## How to Cite
-If you extend or use this work, please cite the [paper](https://link.springer.com/chapter/10.1007/978-3-031-13643-6_27) where it was introduced:
-
-> Liana Ermakova, Anne-Gwenn Bosser, Tristan Miller, Tremaine Thomas-Young, Victor Manuel Palma Preciado, Grigori Sidorov, and Adam Jatowt. *[CLEF 2024 JOKER lab: Automatic humour analysis.](https://link.springer.com/content/pdf/10.1007/978-3-031-56072-9_5.pdf)* In Nazli Goharian, Nicola Tonellotto, Yulan He, Aldo Lipani, Graham McDonald, Craig Macdonald, and Iadh Ounis, editors, _[Advances in Information Retrieval: 46th European Conference on Information Retrieval, ECIR 2024, Glasgow, UK, March 24–28, Proceedings, Part VI](https://link.springer.com/book/10.1007/978-3-031-56072-9)_, volume 14613 of Lecture Notes in Computer Science (ISSN 0302-9743), pages 36–43, Cham, March 2024. Springer. ISBN 978-3-031-56072-9. DOI: [10.1007/978-3-031-56072-9_5](https://dx.doi.org/10.1007/978-3-031-56072-9_5).
-
-
-<p>
-<em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" integrated into France 2030, with the Reference ANR-19-GURE-0001.</em>
-</p>
-<p>
-<em>JOKER is supported by The Human Science Institute in Brittany (MSHB)</em>
-</p>
+  ## Abstract
+  
+  Over the last years, the JOKER Track has created an active community of researchers in NLP and IR working together on non-literal use of language in text—which is still challenging for both AI models and humans as it requires understanding implicit cultural references or double meanings. Its benchmarks on humorous text analysis, retrieval, and translation have become standard references. We propose significant changes in the track’s setup and tasks. The CLEF 2025 JOKER track will contain the following 3+1 tasks: 
+  
+  The JOKER lab aims to bring together linguists and computer scientists to create reusable test collections to foster work on automatic humor analysis. To encourage research in humor-aware information retrieval, JOKER 2024 introduced a new task that focuses on retrieving short humorous texts from a document collection. 
+  
+  The intended use case is to search for a joke on a specific topic. This can be useful for:
+  - Humor researchers in the humanities,
+  - Second-language learners as a learning aid,
+  - Professional comedians as a writing aid,
+  - Translators who might need to adapt certain jokes to other cultures.
+  
+  ## 1. Title, Description, and Relevance
+  
+  We propose to retain the now well-established title: **CLEF 2025 JOKER Track: Automatic Humor Analysis**.
+  
+  State-of-the-art AI, NLP, and IR models are still not able to handle humor or other non-literal aspects of text naturally (Ermakova et al., 2023a). Specifically, tasks like wordplay detection or analysis, which can involve the surface structure or orthography of a word or its pronunciation, present significant challenges.
+  
+  These tasks rely on word surface aspects that are not captured in the deep semantic embeddings of modern AI models. Current pre-training models, which are based on next-word prediction objectives, also fail to account for these non-literal language features.
+  
+  ## 2. Use Case
+  
+  Humor is one of the most important aspects of social interaction. Despite significant advances in AI and NLP, understanding humor remains a challenge, as it often involves grasping implicit cultural references and/or double meanings. 
+  
+  The goal of the JOKER lab is to bring together linguists and computer scientists to create reusable test collections that foster work on automatic humor analysis.
+  
+  To encourage research in humor-aware information retrieval, JOKER 2024 introduced a new task aimed at retrieving short humorous texts from a document collection. 
+  
+  The intended use case is to search for a joke on a specific topic. This can be useful for:
+  - Humor researchers in the humanities
+  - Second-language learners as a learning aid
+  - Professional comedians as a writing aid
+  - Translators who need to adapt jokes for different cultures
+  
+  ## References
+  
+  1. Liana Ermakova, Anne-Gwenn Bosser, Adam Jatowt, and Tristan Miller. 2023a. The JOKER corpus: English-french parallel data for multilingual word- play recognition. In Proceedings of the 46th Inter- national ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2023, Taipei, Taiwan, July 23-27, 2023, pages 2796–2806.ACM.
+  
+  2. Liana Ermakova, Tristan Miller, Anne-Gwenn Bosser, Victor Manuel Palma Preciado, Grigori Sidorov, and Adam Jatowt. 2023b. Overview of JOKER 2023 Automatic Wordplay Analysis Task 1 – pun detection. In Working Notes of CLEF 2023 – Conference and Labs of the Evaluation Forum, volume 3497 of CEUR Workshop Proceedings, pages 1785–1803.
+  
+  3. Liana Ermakova, Tristan Miller, Anne-Gwenn Bosser, Victor Manuel Palma Preciado, Grigori Sidorov, and Adam Jatowt. 2023c. Overview of JOKER 2023 Au- tomatic Wordplay Analysis Task 2 – pun location and interpretation. In Working Notes of CLEF 2023 – Conference and Labs of the Evaluation Forum, vol- ume 3497 of CEUR Workshop Proceedings, pages 1804–1817.
+  
+  4. Liana Ermakova, Tristan Miller, Anne-Gwenn Bosser, Victor Manuel Palma Preciado, Grigori Sidorov, and Adam Jatowt. 2023d. Overview of JOKER 2023 Automatic Wordplay Analysis Task 3 – pun translation. In Working Notes of CLEF 2023 – Conference and Labs of the Evaluation Forum, volume 3497 of CEUR Workshop Proceedings, pages 1818–1827.
+  
+  5. Liana Ermakova, Tristan Miller, Anne-Gwenn Bosser, Victor Manuel Palma Preciado, Grigori Sidorov, and Adam Jatowt. 2023e. Overview of JOKER – CLEF-2023 track on automatic wordplay analysis. In Avi Arampatzis, Evangelos Kanoulas, Theodora Tsikrika, Stefanos Vrochidis, Anastasia Giachanou, Dan Li, Mohammad Aliannejadi, Michalis Vlachos, Guglielmo Faggioli, and Nicola Ferro, editors, Experimental IR Meets Multilinguality, Multimodality, and Interaction, volume 14163, pages 397–415. Springer Nature Switzerland, Cham.
+  
+  6. Liana Ermakova, Tristan Miller, Anne-Gwenn Bosser, Victor Manuel Palma Preciado, Grigori Sidorov, and Adam Jatowt. 2023f. Science for fun: The CLEF 2023 JOKER track on automatic wordplay analysis. In Advances in Information Retrieval: 45th European Conference on Information Retrieval, ECIR 2023, Dublin, Ireland, April 2 6, Proceedings, Part III, volume 13982 of Lecture Notes in Computer Science, pages 546–556, Berlin, Heidelberg. Springer.
+  
+  7. Liana Ermakova, Tristan Miller, Anne-Gwenn Bosser, Victor Manuel Palma-Preciado, Grigori Sidorov, and Adam Jatowt. 2024a. Overview of the CLEF 2024 JOKER track: Automatic humor analysis. In Experimental IR Meets Multilinguality, Multimodality, and Interaction. Proceedings of the Fifteenth Inter- national Conference of the CLEF Association (CLEF 2024), Lecture Notes in Computer Science. Springer.
+  
+  8. Liana Ermakova, Tristan Miller, Orlane Puchalski, Fabio Regattin, Élise Mathurin, Sílvia Araújo, Anne-Gwenn Bosser, Claudine Borg, Monika Bokiniec, Gaelle Le Corre, Benoît Jeanjean, Radia Hannachi,˙Gor ˙g Mallia, Gordan Matas, and Mohamed Saki.2022a. CLEF workshop JOKER: Automatic word-play and humour translation. In Matthias Hagen, Suzan Verberne, Craig Macdonald, Christin Seifert, Krisztian Balog, Kjetil Nørvåg, and Vinay Setty, editors, Advances in Information Retrieval, volume 13186 of Lecture Notes in Computer Science, pages 355–363. Springer International Publishing, Cham.
+  
+  9. Liana Ermakova, Tristan Miller, Fabio Regattin, Anne-Gwenn Bosser, Élise Mathurin, Gaelle Le Corre, Sílvia Araújo, Julien Boccou, Albin Digue, Auri- anne Damoy, and Benoît Jeanjean. 2022b. Overview
+  of JOKER@CLEF 2022: Automatic wordplay and humour translation workshop. In Experimental IR Meets Multilinguality, Multimodality, and Interaction. Proceedings of the Thirteenth International Confer- ence of the CLEF Association (CLEF 2022), volume 13390 of Lecture Notes in Computer Science, pages 447–469.
+  
+  10. Liana Ermakova et al. 2024b. Overview of the CLEF 2024 JOKER task 1: Humour-aware information re-
+  trieval. In Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2024), CEUR Work-shop Proceedings. CEUR-WS.org.
+  
+  11. Liana Ermakova et al. 2024c. Overview of the CLEF 2024 JOKER task 3: Translate puns from english to french. In Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2024), CEUR Workshop Proceedings. CEUR-WS.org.
+  
+  12. Timothee Mickus, Elaine Zosa, Raul Vazquez, Teemu Vahtola, Jörg Tiedemann, Vincent Segonne, Alessandro Raganato, and Marianna Apidianaki. 2024. SemEval-2024 task 6: SHROOM, a shared-task on hallucinations and related observable overgeneration mistakes. In Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024), pages 1979–1993, Mexico City, Mexico. Association for Computational Linguistics.
+  
+  13. Tristan Miller, Christian F. Hempelmann, and Iryna Gurevych. 2017. SemEval-2017 Task 7: Detection and interpretation of English puns. In Proceedings of the 11th International Workshop on Semantic Evaluation, pages 58–68.
+  
+  14. Victor Manuel Palma-Preciado et al. 2024. Overview of the CLEF 2024 JOKER task 2: Humour classification according to genre and technique. In Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2024), CEUR Workshop Proceedings. CEUR-WS.org.
+  
+  
+  ## How to Cite
+  If you extend or use this work, please cite the [paper](https://link.springer.com/chapter/10.1007/978-3-031-13643-6_27) where it was introduced:
+  
+  > Liana Ermakova, Anne-Gwenn Bosser, Tristan Miller, Tremaine Thomas-Young, Victor Manuel Palma Preciado, Grigori Sidorov, and Adam Jatowt. *[CLEF 2024 JOKER lab: Automatic humour analysis.](https://link.springer.com/content/pdf/10.1007/978-3-031-56072-9_5.pdf)* In Nazli Goharian, Nicola Tonellotto, Yulan He, Aldo Lipani, Graham McDonald, Craig Macdonald, and Iadh Ounis, editors, _[Advances in Information Retrieval: 46th European Conference on Information Retrieval, ECIR 2024, Glasgow, UK, March 24–28, Proceedings, Part VI](https://link.springer.com/book/10.1007/978-3-031-56072-9)_, volume 14613 of Lecture Notes in Computer Science (ISSN 0302-9743), pages 36–43, Cham, March 2024. Springer. ISBN 978-3-031-56072-9. DOI: [10.1007/978-3-031-56072-9_5](https://dx.doi.org/10.1007/978-3-031-56072-9_5).
+  
+  
+  <p>
+  <em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" integrated into France 2030, with the Reference ANR-19-GURE-0001.</em>
+  </p>
+  <p>
+  <em>JOKER is supported by The Human Science Institute in Brittany (MSHB)</em>
+  </p>
 <div align="center">
   <a href="https://www.mshb.fr"><img src="img/mshb.jpg" height="120"></a>
   <a href="https://sea-eu.org/?lang=fr"><img src="img/sea-eu.png" height="120"></a>
