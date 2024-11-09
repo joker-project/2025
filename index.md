@@ -44,21 +44,37 @@ The intended use case is to search for a joke on a specific topic. This can be u
 - Professional comedians as a writing aid
 - Translators who need to adapt jokes for different cultures
 
-### 3.1 Task 1: Humor-aware Information Retrieval
+## References
 
-The goal of this task is to retrieve short humorous texts from a document collection based on a given query. The retrieved texts must meet two criteria: they should be relevant to the query and involve wordplay. A typical use case would be searching for a joke on a specific topic – for example, a query for "math" would aim to find math-related jokes, while a query for "Tom" would seek jokes about someone named Tom.
+1. Liana Ermakova, Anne-Gwenn Bosser, Adam Jatowt, and Tristan Miller. 2023a. The JOKER corpus: English-french parallel data for multilingual word- play recognition. In Proceedings of the 46th Inter- national ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2023, Taipei, Taiwan, July 23-27, 2023, pages 2796–2806.ACM.
 
-The data for this task is an extension of the dataset used in JOKER 2023’s wordplay detection task in English, annotated for humor. This has been expanded with data from Task 3 (Translation) (Ermakova et al., 2023d, 2024c). We grouped the humorous texts into topic-based clusters and created queries accordingly. Additionally, we included a significant amount of topically relevant, non-humorous texts by extracting passages from Wikipedia and generating text using Meta’s Llama-2 (7B) models. Due to the number of queries, a large fraction of the corpus is non-relevant content.
+2. Liana Ermakova, Tristan Miller, Anne-Gwenn Bosser, Victor Manuel Palma Preciado, Grigori Sidorov, and Adam Jatowt. 2023b. Overview of JOKER 2023 Automatic Wordplay Analysis Task 1 – pun detection. In Working Notes of CLEF 2023 – Conference and Labs of the Evaluation Forum, volume 3497 of CEUR Workshop Proceedings, pages 1785–1803.
 
-For evaluation, we use standard information retrieval metrics: MRR, Precision, and NDCG at early ranks, and MAP for overall retrieval effectiveness. We evaluate both humor relevance and topical relevance.
+3. Liana Ermakova, Tristan Miller, Anne-Gwenn Bosser, Victor Manuel Palma Preciado, Grigori Sidorov, and Adam Jatowt. 2023c. Overview of JOKER 2023 Au- tomatic Wordplay Analysis Task 2 – pun location and interpretation. In Working Notes of CLEF 2023 – Conference and Labs of the Evaluation Forum, vol- ume 3497 of CEUR Workshop Proceedings, pages 1804–1817.
 
-### 3.2 Task 2: Wordplay Translation
+4. Liana Ermakova, Tristan Miller, Anne-Gwenn Bosser, Victor Manuel Palma Preciado, Grigori Sidorov, and Adam Jatowt. 2023d. Overview of JOKER 2023 Automatic Wordplay Analysis Task 3 – pun translation. In Working Notes of CLEF 2023 – Conference and Labs of the Evaluation Forum, volume 3497 of CEUR Workshop Proceedings, pages 1818–1827.
 
-This task involves translating English puns into French, aiming to preserve both the form and meaning of the original wordplay as much as possible. This is a challenge for both modern machine translation (MT) models and professional human translators, making it an interesting task for professionals and students alike. This allows us to involve many translation students and professionals, contributing to the creation of a large, high-quality corpus.
+5. Liana Ermakova, Tristan Miller, Anne-Gwenn Bosser, Victor Manuel Palma Preciado, Grigori Sidorov, and Adam Jatowt. 2023e. Overview of JOKER – CLEF-2023 track on automatic wordplay analysis. In Avi Arampatzis, Evangelos Kanoulas, Theodora Tsikrika, Stefanos Vrochidis, Anastasia Giachanou, Dan Li, Mohammad Aliannejadi, Michalis Vlachos, Guglielmo Faggioli, and Nicola Ferro, editors, Experimental IR Meets Multilinguality, Multimodality, and Interaction, volume 14163, pages 397–415. Springer Nature Switzerland, Cham.
 
-The training data for Task 2 consists of 1,405 English wordplays with 5,838 professional French translations. The test data includes 4,501 English wordplays. This task builds on previous years of the JOKER track (Ermakova et al., 2024c), and we have already collected over 1,000 new translations, often with multiple references, for use in 2025.
+6. Liana Ermakova, Tristan Miller, Anne-Gwenn Bosser, Victor Manuel Palma Preciado, Grigori Sidorov, and Adam Jatowt. 2023f. Science for fun: The CLEF 2023 JOKER track on automatic wordplay analysis. In Advances in Information Retrieval: 45th European Conference on Information Retrieval, ECIR 2023, Dublin, Ireland, April 2 6, Proceedings, Part III, volume 13982 of Lecture Notes in Computer Science, pages 546–556, Berlin, Heidelberg. Springer.
 
-We will provide a range of standard MT evaluation metrics, such as BLEU, METEOR, COMET, and BERTScore. Additionally, trained experts will manually evaluate system translations based on criteria like lexical field preservation, sense preservation, wordplay form preservation, style shift, humor shift, and errors in syntax or word choice. Runs will be ranked by the number of successful translations that preserve both the form and sense of the original wordplay.
+7. Liana Ermakova, Tristan Miller, Anne-Gwenn Bosser, Victor Manuel Palma-Preciado, Grigori Sidorov, and Adam Jatowt. 2024a. Overview of the CLEF 2024 JOKER track: Automatic humor analysis. In Experimental IR Meets Multilinguality, Multimodality, and Interaction. Proceedings of the Fifteenth Inter- national Conference of the CLEF Association (CLEF 2024), Lecture Notes in Computer Science. Springer.
+
+8. Liana Ermakova, Tristan Miller, Orlane Puchalski, Fabio Regattin, Élise Mathurin, Sílvia Araújo, Anne-Gwenn Bosser, Claudine Borg, Monika Bokiniec, Gaelle Le Corre, Benoît Jeanjean, Radia Hannachi,˙Gor ˙g Mallia, Gordan Matas, and Mohamed Saki.2022a. CLEF workshop JOKER: Automatic word-play and humour translation. In Matthias Hagen, Suzan Verberne, Craig Macdonald, Christin Seifert, Krisztian Balog, Kjetil Nørvåg, and Vinay Setty, editors, Advances in Information Retrieval, volume 13186 of Lecture Notes in Computer Science, pages 355–363. Springer International Publishing, Cham.
+
+9. Liana Ermakova, Tristan Miller, Fabio Regattin, Anne-Gwenn Bosser, Élise Mathurin, Gaelle Le Corre, Sílvia Araújo, Julien Boccou, Albin Digue, Auri- anne Damoy, and Benoît Jeanjean. 2022b. Overview
+of JOKER@CLEF 2022: Automatic wordplay and humour translation workshop. In Experimental IR Meets Multilinguality, Multimodality, and Interaction. Proceedings of the Thirteenth International Confer- ence of the CLEF Association (CLEF 2022), volume 13390 of Lecture Notes in Computer Science, pages 447–469.
+
+10. Liana Ermakova et al. 2024b. Overview of the CLEF 2024 JOKER task 1: Humour-aware information re-
+trieval. In Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2024), CEUR Work-shop Proceedings. CEUR-WS.org.
+
+11. Liana Ermakova et al. 2024c. Overview of the CLEF 2024 JOKER task 3: Translate puns from english to french. In Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2024), CEUR Workshop Proceedings. CEUR-WS.org.
+
+12. Timothee Mickus, Elaine Zosa, Raul Vazquez, Teemu Vahtola, Jörg Tiedemann, Vincent Segonne, Alessandro Raganato, and Marianna Apidianaki. 2024. SemEval-2024 task 6: SHROOM, a shared-task on hallucinations and related observable overgeneration mistakes. In Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024), pages 1979–1993, Mexico City, Mexico. Association for Computational Linguistics.
+
+13. Tristan Miller, Christian F. Hempelmann, and Iryna Gurevych. 2017. SemEval-2017 Task 7: Detection and interpretation of English puns. In Proceedings of the 11th International Workshop on Semantic Evaluation, pages 58–68.
+
+14. Victor Manuel Palma-Preciado et al. 2024. Overview of the CLEF 2024 JOKER task 2: Humour classification according to genre and technique. In Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2024), CEUR Workshop Proceedings. CEUR-WS.org.
 
 
 ## How to Cite
