@@ -30,7 +30,7 @@
   
   These tasks rely on word surface aspects that are not captured in the deep semantic embeddings of modern AI models. Current pre-training models, which are based on next-word prediction objectives, also fail to account for these non-literal language features.
   
-  ## 2. Use Case
+## 2. Use Case
   
   Humor is one of the most important aspects of social interaction. Despite significant advances in AI and NLP, understanding humor remains a challenge, as it often involves grasping implicit cultural references and/or double meanings. 
   
