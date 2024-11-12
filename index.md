@@ -10,7 +10,7 @@
   <h1 align="center">CLEF 2025 JOKER Track:</h1>
   <h2 align="center">Automatic Humour Analysis</h2> 
 
-## Abstract
+## Introduction
   
   Over the last years, the JOKER Track has created an active community of researchers in NLP and IR working together on non-literal use of language in text—which is still challenging for both AI models and humans as it requires understanding implicit cultural references or double meanings. Its benchmarks on humorous text analysis, retrieval, and translation have become standard references. We propose significant changes in the track’s setup and tasks. The CLEF 2025 JOKER track will contain the following 3+1 tasks: 
   
