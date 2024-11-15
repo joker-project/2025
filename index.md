@@ -19,7 +19,7 @@
     
   Humour plays a vital role in social interaction. Understanding it, however, can be challenging for humans, often requiring a good grasp of cultural references and double meanings. State-of-the-art artificial intelligence (AI), natural language processing (NLP), and information retrieval (IR) models also remain largely impervious to humour or other non-literal meanings aspects of texts. This is especially true for tasks like wordplay detection or analysis, which rely on the surface structure (orthography or pronunciation) of a word; such surface-level features are not directly captured in the deep semantic embeddings of modern  AI models. They also cannot be captured by current pre-training models based on next-word prediction objectives, which tend to learn literal, statistically likely patterns in language rather than nuanced, non-literal meanings often associated with humour, wordplay, or sarcasm.
     
-    the JOKER Lab, now in its fourth year, aims to bring together social and computer scientists to create reusable test collections featuring wordplay and humour, and to foster work on automatic humour analysis. In this paper, we trace JOKER’s path over the last few years and describe 2025’s shared tasks:
+  The JOKER Lab, now in its fourth year, aims to bring together social and computer scientists to create reusable test collections featuring wordplay and humour, and to foster work on automatic humour analysis. In this paper, we trace JOKER’s path over the last few years and describe 2025’s shared tasks:
 
    **Task 1** Humour-aware Information Retrieval
    **Task 2** Wordplay Translation
