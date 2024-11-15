@@ -28,10 +28,10 @@
     
   The JOKER Lab, now in its fourth year, aims to bring together social and computer scientists to create reusable test collections featuring wordplay and humour, and to foster work on automatic humour analysis. In this paper, we trace JOKER’s path over the last few years and describe 2025’s shared tasks:
 
-   **Task 1** Humour-aware Information Retrieval
-   **Task 2** Wordplay Translation
-   **Task 3** Onomastic Wordplay Translation
-   **Task 4** Controlled Creativity
+  - **Task 1** Humour-aware Information Retrieval
+  - **Task 2** Wordplay Translation
+  - **Task 3** Onomastic Wordplay Translation
+  - **Task 4** Controlled Creativity
     
 ## 1. Title, Description, and Relevance
   
