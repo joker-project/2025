@@ -31,5 +31,5 @@ This makes the JOKER corpus of great interest to understand how much creative li
 </div>
 <br />
 <div align="center">
-  <a href="https://clef2022.clef-initiative.eu/index.php"><img src="img/clef2024.png" height="90"></a> 
+  <a href="https://clef2022.clef-initiative.eu/index.php"><img src="img/clef2025.png" height="90"></a> 
 </div>
