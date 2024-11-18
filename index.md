@@ -12,14 +12,7 @@
 
 ## Abstract
   
-  Over the last three years, the JOKER Lab series at CLEF has gathered an active community of researchers in natural language processing and information retrieval to collaborate on non-literal use of language in text. Such language can be a challenge for AI systems, but also sometimes for humans, as it requires understanding implicit cultural references and unorthodox interactions between form and meaning. 
- 
-   The intended use case is to search for a joke on a specific topic. This can be useful for:
-  - Humor researchers in the humanities,
-  - Second-language learners as a learning aid,
-  - Professional comedians as a writing aid,
-  - Translators who might need to adapt certain jokes to other cultures.
-  
+  Over the last three years, the JOKER Lab series at CLEF has gathered an active community of researchers in natural language processing and information retrieval to collaborate on non-literal use of language in text. Such language can be a challenge for AI systems, but also sometimes for humans, as it requires understanding implicit cultural references and unorthodox interactions between form and meaning.  
 
 ## Introduction
     
@@ -31,22 +24,14 @@
   - **Task 2** Wordplay Translation
   - **Task 3** Onomastic Wordplay Translation
   - **Task 4** Controlled Creativity
-    
-## 1. Title, Description, and Relevance
+
   
-  We propose to retain the now well-established title: **CLEF 2025 JOKER Track: Automatic Humor Analysis**.
-  
-  State-of-the-art AI, NLP, and IR models are still not able to handle humor or other non-literal aspects of text naturally (Ermakova et al., 2023a). Specifically, tasks like wordplay detection or analysis, which can involve the surface structure or orthography of a word or its pronunciation, present significant challenges.
-  
-  These tasks rely on word surface aspects that are not captured in the deep semantic embeddings of modern AI models. Current pre-training models, which are based on next-word prediction objectives, also fail to account for these non-literal language features.
-  
-## 2. Use Case
+## Use Case
   
   Humor is one of the most important aspects of social interaction. Despite significant advances in AI and NLP, understanding humor remains a challenge, as it often involves grasping implicit cultural references and/or double meanings. 
   
   The goal of the JOKER lab is to bring together linguists and computer scientists to create reusable test collections that foster work on automatic humor analysis.
-  
-  To encourage research in humor-aware information retrieval, JOKER 2024 introduced a new task aimed at retrieving short humorous texts from a document collection. 
+To encourage research in humor-aware information retrieval, JOKER 2024 introduced a new task aimed at retrieving short humorous texts from a document collection. 
   
   The intended use case is to search for a joke on a specific topic. This can be useful for:
   - Humor researchers in the humanities
