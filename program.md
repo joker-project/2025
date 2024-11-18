@@ -7,7 +7,13 @@
 
 <br>
   <h1 align="center">CLEF 2025 JOKER Track:</h1>
-  <h2 align="center">Automatic Humour Analysis</h2> 
+  <h2 align="center">Automatic Humour Analysis</h2>
+
+* [CLEF 2024 registration](https://clef2025.clef-initiative.eu/index.php?page=Pages/conference_registration.html)
+* [CLEF 2024 program](https://clef2025.clef-initiative.eu/index.php?page=Pages/programme.html)
+* [CLEF 2024 LNCS Proceedings, Vol I]()
+* [CLEF 2024 LNCS Proceedings, Vol II]()
+* [CLEF 2024 Working Notes]()
 
 We envision a similar setup as in earlier years:
 Track overview as part of the plenary conference program.
