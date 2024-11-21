@@ -29,7 +29,7 @@ This makes the JOKER corpus of great interest to understand how much creative li
   <a href="https://sea-eu.org/?lang=fr"><img src="img/sea-eu.png" height="120"></a>
   <a href="https://www.gouvernement.fr/le-programme-d-investissements-d-avenir"><img src="img/Logotype France 2030.jpg" height="120"></a>
   <a href="https://www.ubi.pt"><img src="img/ubi.png" height="120"></a>
-  <a href="https://www.inesctec.pt"><img src="img/liaad.png" height="120"></a>
+  <a href="https://www.inesctec.pt"><img src="img/inesctec.png" height="120"></a>
 </div>
 <br />
 <div align="center">
