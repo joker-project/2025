@@ -87,7 +87,7 @@ To encourage research in humor-aware information retrieval, JOKER 2024 introduce
 <div align="center">
   <a href="https://www.mshb.fr"><img src="img/mshb.jpg" height="120"></a>
   <a href="https://sea-eu.org/?lang=fr"><img src="img/sea-eu.png" height="120"></a>
-  <a href="https://www.gouvernement.fr/le-programme-d-investissements-d-avenir"><img src="img/Logotype France 2030.jpg" height="120">
+  <a href="https://www.gouvernement.fr/le-programme-d-investissements-d-avenir"><img src="img/Logotype France 2030.jpg" height="120"></a>
   <a href="https://www.ubi.pt"><img src="img/ubi.png" height="120"></a>
   <a href="https://www.inesctec.pt"><img src="img/inesctec.png" height="120">
   </a>
