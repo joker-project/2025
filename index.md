@@ -79,7 +79,7 @@ To encourage research in humor-aware information retrieval, JOKER 2024 introduce
   
   
   <p>
-  <em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" integrated into France 2030, with the Reference ANR-19-GURE-0001.</em>
+  <em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" integrated into France 2030, with the Reference ANR-19-GURE-0001. It was also financed by National Funds through the FCT - Fundação para a Ciência e a Tecnologia, I.P. (Portuguese Foundation for Science and Technology) within the project StorySense, with reference 2022.09312.PTDC (DOI 10.54499/2022.09312.PTDC).</em>
   </p>
   <p>
   <em>JOKER is supported by The Human Science Institute in Brittany (MSHB)</em>
@@ -87,7 +87,10 @@ To encourage research in humor-aware information retrieval, JOKER 2024 introduce
 <div align="center">
   <a href="https://www.mshb.fr"><img src="img/mshb.jpg" height="120"></a>
   <a href="https://sea-eu.org/?lang=fr"><img src="img/sea-eu.png" height="120"></a>
-  <a href="https://www.gouvernement.fr/le-programme-d-investissements-d-avenir"><img src="img/Logotype France 2030.jpg" height="120"></a>
+  <a href="https://www.gouvernement.fr/le-programme-d-investissements-d-avenir"><img src="img/Logotype France 2030.jpg" height="120">
+  <a href="https://www.ubi.pt"><img src="img/ubi.png" height="120"></a>
+  <a href="https://www.inesctec.pt"><img src="img/inesctec.png" height="120">
+  </a>
 </div>
 <br />
 <div align="center">
