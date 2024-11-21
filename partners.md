@@ -17,16 +17,20 @@
 <br>[Link to profile](https://logological.org/) 
 <br>*JOKER@CLEF chair*
 
-* **Adam Jatowt (University of Innsbruck, Austria)**
-<br>Full Professor at Department of Computer Science & Digital Science Center
-<br>[Link to profile](https://adammo12.github.io/adamjatowt/)
-<br>*JOKER@CLEF chair*
-
 * **Anne-Gwenn Bosser (ENIB, Brest, France)**
 <br>Associate Professor in Computational Sciences
 <br>Lab-STICC (CNRS UMR 6285), Leader of the COMMEDIA Team
 <br>[Link to profile](https://labsticc.fr/en/directory/bosser-anne-gwenn)
 <br>*JOKER@CLEF chair*
+
+
+
+<!---
+## Other organizers: 
+
+* **Adam Jatowt (University of Innsbruck, Austria)**
+<br>Full Professor at Department of Computer Science & Digital Science Center
+<br>[Link to profile](https://adammo12.github.io/adamjatowt/)
 
 * **Victor Manuel Palma Preciado (Instituto Politécnico Nacional, Mexico / Université de Bretagne Occidentale, Brest, France)**
 <br>PhD student in computer science
@@ -36,9 +40,6 @@
 <br>Full Professor
 <br>[Link to profile](https://www.cic.ipn.mx/~sidorov/)
 <br>*JOKER@CLEF chair*
-
-
-## Other organizers: 
 
 * **Fabio Regattin (Università degli Studi di Udine, Italy)**
 <br>Associate Professor in French to Italian Translation
@@ -150,15 +151,17 @@
 <br>
 <br><img src="img/universita-malta.png" width="200">  <img src="img/university-of-split.png" width="100"> <img src="img/university-of-gdansk.png" width="120"> <img src="img/1200px-Logouniversidadcadiz.svg.png" width="90">
 </p>
-
+-->
 <p>
 <em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" integrated into France 2030, with the Reference ANR-19-GURE-0001.</em>
 </p>
+<!---
 <p>
 <em>JOKER is supported by The Human Science Institute in Brittany (MSHB)</em>
 </p>
+-->
 <div align="center">
-  <a href="https://www.mshb.fr"><img src="img/mshb.jpg" height="120"></a>
+  <!---<a href="https://www.mshb.fr"><img src="img/mshb.jpg" height="120"></a>-->
   <a href="https://sea-eu.org/?lang=fr"><img src="img/sea-eu.png" height="120"></a>
   <a href="https://www.gouvernement.fr/le-programme-d-investissements-d-avenir"><img src="img/Logotype France 2030.jpg" height="120"></a>
 </div>
