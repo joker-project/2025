@@ -6,26 +6,22 @@
 {% include navbar.md %}
 
 ## Chairs: 
-* **Liana Ermakova (Université de Bretagne Occidentale, Brest, France)**
+* **[Liana Ermakova](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana) (Université de Bretagne Occidentale, Brest, France)**
 <br>Associate professor in computer science
 <br>HCTI, Université de Bretagne Occidentale, Brest, France
-<br>[Link to profile](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana)
 <br>*Project Leader, General chair*
 
-* **Tristan Miller (University of Manitoba, Canada)**
+* **[Tristan Miller](https://logological.org/) (University of Manitoba, Canada)**
 <br>Assistant Professor, Department of Computer Science
-<br>[Link to profile](https://logological.org/) 
 <br>*JOKER@CLEF chair*
 
-* **Anne-Gwenn Bosser (ENIB, Brest, France)**
+* **[Anne-Gwenn Bosser](https://labsticc.fr/en/directory/bosser-anne-gwenn) (ENIB, Brest, France)**
 <br>Associate Professor in Computational Sciences
 <br>Lab-STICC (CNRS UMR 6285), Leader of the COMMEDIA Team
-<br>[Link to profile](https://labsticc.fr/en/directory/bosser-anne-gwenn)
 <br>*JOKER@CLEF chair*
 
-* **Ricardo Campos (University of Beira Interior, Covilhã, Portugal & INESC TEC, Porto, Portugal)**
+* **[Ricardo Campos](https://www.di.ubi.pt/~rcampos/) (University of Beira Interior, Covilhã, Portugal & INESC TEC, Porto, Portugal)**
 <br>Assistant Professor in Computer Science
-<br>[Link to profile](https://www.di.ubi.pt/~rcampos/)
 <br>*JOKER@CLEF chair*
 
 
