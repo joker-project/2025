@@ -52,8 +52,18 @@ To encourage research in humor-aware information retrieval, JOKER 2024 introduce
 * **27 June 2025:** Notification of Acceptance for Participant Papers [CEUR-WS]
 * **7 July 2025**: Camera Ready Copy of Participant Papers
 * **21-25 July 2025**: CEUR-WS Working Notes Preview for Checking by Authors and Lab Organizers
+
+
+## How to participate
+
+In order to participate, you should sign up at the [CLEF](https://clef2025.clef-initiative.eu/index.php?page=Pages/registration.html) website. The registration closes on April 25, 2025.
+
+All team members should join the JOKER mailing list:
+[https://groups.google.com/u/4/g/joker-project](https://groups.google.com/u/4/g/joker-project). 
+
+The data will be made available to all registered participants.
   
-## References
+<!--## References
   
   1. Liana Ermakova, Anne-Gwenn Bosser, Adam Jatowt, and Tristan Miller. 2023a. The JOKER corpus: English-french parallel data for multilingual word- play recognition. In Proceedings of the 46th Inter- national ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2023, Taipei, Taiwan, July 23-27, 2023, pages 2796–2806.ACM.
   
@@ -84,12 +94,14 @@ To encourage research in humor-aware information retrieval, JOKER 2024 introduce
   13. Tristan Miller, Christian F. Hempelmann, and Iryna Gurevych. 2017. SemEval-2017 Task 7: Detection and interpretation of English puns. In Proceedings of the 11th International Workshop on Semantic Evaluation, pages 58–68.
   
   14. Victor Manuel Palma-Preciado et al. 2024. Overview of the CLEF 2024 JOKER task 2: Humour classification according to genre and technique. In Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2024), CEUR Workshop Proceedings. CEUR-WS.org.
-  
+-->  
   
 ## How to Cite
   If you extend or use this work, please cite the [paper](https://link.springer.com/chapter/10.1007/978-3-031-13643-6_27) where it was introduced:
   
-  > Liana Ermakova, Anne-Gwenn Bosser, Tristan Miller, Tremaine Thomas-Young, Victor Manuel Palma Preciado, Grigori Sidorov, and Adam Jatowt. *[CLEF 2024 JOKER lab: Automatic humour analysis.](https://link.springer.com/content/pdf/10.1007/978-3-031-56072-9_5.pdf)* In Nazli Goharian, Nicola Tonellotto, Yulan He, Aldo Lipani, Graham McDonald, Craig Macdonald, and Iadh Ounis, editors, _[Advances in Information Retrieval: 46th European Conference on Information Retrieval, ECIR 2024, Glasgow, UK, March 24–28, Proceedings, Part VI](https://link.springer.com/book/10.1007/978-3-031-56072-9)_, volume 14613 of Lecture Notes in Computer Science (ISSN 0302-9743), pages 36–43, Cham, March 2024. Springer. ISBN 978-3-031-56072-9. DOI: [10.1007/978-3-031-56072-9_5](https://dx.doi.org/10.1007/978-3-031-56072-9_5).
+  > Ermakova, L., Bosser, AG., Miller, T., Campos, R. (2025). CLEF 2025 JOKER Lab: Humour in the Machine. In: Hauff, C., et al. Advances in Information Retrieval. ECIR 2025. Lecture Notes in Computer Science, vol 15576. Springer, Cham. [https://doi.org/10.1007/978-3-031-88720-8_59](https://doi.org/10.1007/978-3-031-88720-8_59).
+
+> Liana Ermakova, Anne-Gwenn Bosser, Adam Jatowt, and Tristan Miller. 2023. The JOKER Corpus: English-French Parallel Data for Multilingual Wordplay Recognition. In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '23). Association for Computing Machinery, New York, NY, USA, 2796–2806. [https://doi.org/10.1145/3539618.3591885](https://doi.org/10.1145/3539618.3591885)
   
   
   <p>
