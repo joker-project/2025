@@ -10,7 +10,7 @@
 
 **Twitter:** [https://twitter.com/joker_research](https://twitter.com/joker_research)
 
-**Email:** [joker.humour.project@gmail.com](mailto:joker.humour.project@gmail.com)
+**Google Group:** [https://groups.google.com/u/4/g/joker-project](https://groups.google.com/u/4/g/joker-project)
 
 **Email:** [joker.humour.project@gmail.com](mailto:joker.humour.project@gmail.com)
 
