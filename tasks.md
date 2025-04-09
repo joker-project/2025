@@ -9,6 +9,15 @@
   <h1 align="center">CLEF 2025 JOKER Track:</h1>
   <h2 align="center">Automatic Humour Analysis</h2> 
 
+### How to participate
+
+In order to participate, you should sign up at the [CLEF](https://clef2025.clef-initiative.eu/index.php?page=Pages/registration.html) website. The registration closes on April 25, 2025.
+
+All team members should join the JOKER mailing list:
+[https://groups.google.com/u/4/g/joker-project](https://groups.google.com/u/4/g/joker-project). 
+
+The data will be made available to all registered participants.
+
 ### Tasks 
 <!--, evaluation setup, and metrics-->
 
