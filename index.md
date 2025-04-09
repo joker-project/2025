@@ -16,14 +16,15 @@
 
 ## Introduction
     
-  Humour plays a vital role in social interaction. Understanding it, however, can be challenging for humans, often requiring a good grasp of cultural references and double meanings. State-of-the-art **artificial intelligence** (AI), **natural language processing** (NLP), and **information retrieval** (IR) models also remain largely impervious to humour or other non-literal meanings aspects of texts. This is especially true for tasks like wordplay detection or analysis, which rely on the surface structure (orthography or pronunciation) of a word; such surface-level features are not directly captured in the deep semantic embeddings of modern  AI models. They also cannot be captured by current pre-training models based on next-word prediction objectives, which tend to learn literal, statistically likely patterns in language rather than nuanced, non-literal meanings often associated with humour, wordplay, or sarcasm.
+  Humour plays a vital role in social interaction. Understanding it, however, can be challenging for humans, often requiring a good grasp of cultural references and double meanings. State-of-the-art **artificial intelligence** (AI), **natural language processing** (NLP), and **information retrieval** (IR) models also remain largely impervious to humour or other non-literal meaning aspects of texts. This is especially true for tasks like wordplay detection or analysis, which rely on the surface structure (orthography or pronunciation) of a word; such surface-level features are not directly captured in the deep semantic embeddings of modern  AI models. They also cannot be captured by current pre-training models based on next-word prediction objectives, which tend to learn literal, statistically likely patterns in language rather than nuanced, non-literal meanings often associated with humour, wordplay, or sarcasm.
     
-  The JOKER Lab, now in its fourth year, aims to bring together social and computer scientists to create reusable test collections featuring wordplay and humour, and to foster work on automatic humour analysis. In this paper, we trace JOKER’s path over the last few years and describe 2025’s shared tasks:
+  The JOKER Lab, now in its fourth year, aims to bring together social and computer scientists to create reusable test collections featuring wordplay and humour, and to foster work on automatic humour analysis. 
 
+## [Tasks](./tasks)
   - **Task 1** Humour-aware Information Retrieval
   - **Task 2** Wordplay Translation
   - **Task 3** Onomastic Wordplay Translation
-  - **Task 4** Controlled Creativity
+  - **Task 4** JOKER 2022-2024 revisited: Previous tasks by popular requests (pun detection EN/FR/ES, pun location EN/FR/ES)
 
   
 ## Use Case
@@ -38,6 +39,19 @@ To encourage research in humor-aware information retrieval, JOKER 2024 introduce
   - Second-language learners as a learning aid
   - Professional comedians as a writing aid
   - Translators who need to adapt jokes for different cultures
+
+# Important dates
+
+---
+
+* **18 November 2025**: Registration opens
+* **25 April 2025**: Registration closes
+* **10 May 2025**: End of Evaluation Cycle [submission of runs]
+* **30 May 2025**: Submission of Participant Papers [CEUR-WS]
+* **30 May–27 June 2025**: Review process of participant papers
+* **27 June 2025:** Notification of Acceptance for Participant Papers [CEUR-WS]
+* **7 July 2025**: Camera Ready Copy of Participant Papers
+* **21-25 July 2025**: CEUR-WS Working Notes Preview for Checking by Authors and Lab Organizers
   
 ## References
   
