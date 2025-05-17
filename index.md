@@ -26,7 +26,7 @@
   - **Task 3** Onomastic Wordplay Translation
   - **Task 4** JOKER 2022-2024 revisited: Previous tasks by popular requests (pun detection EN/FR/ES, pun location EN/FR/ES)
 
-  
+
 ## Use Case
   
   Humor is one of the most important aspects of social interaction. Despite significant advances in AI and NLP, understanding humor remains a challenge, as it often involves grasping implicit cultural references and/or double meanings. 
@@ -46,9 +46,9 @@ To encourage research in humor-aware information retrieval, JOKER 2024 introduce
 
 * **18 November 2025**: Registration opens
 * **25 April 2025**: Registration closes
-* **10 May 2025**: End of Evaluation Cycle [submission of runs]
-* **30 May 2025**: Submission of Participant Papers [CEUR-WS]
-* **30 May–27 June 2025**: Review process of participant papers
+* **2 June 2025** (can be extended on request): End of Evaluation Cycle [submission of runs]
+* **16 June 2025**: Submission of Participant Papers [CEUR-WS]
+* **16 June–27 June 2025**: Review process of participant papers
 * **27 June 2025:** Notification of Acceptance for Participant Papers [CEUR-WS]
 * **7 July 2025**: Camera Ready Copy of Participant Papers
 * **21-25 July 2025**: CEUR-WS Working Notes Preview for Checking by Authors and Lab Organizers
