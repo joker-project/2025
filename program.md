@@ -25,7 +25,7 @@ JOKER Sessions take place in the **Ricardo Marín** room (_Facultad de Educació
 ## Tuesday 9th September 
 
 ### Best of the Lab 2024 (Salón de Actos)
-* **10:00 – 10:20**
+* **10:00 – 10:20** S.-H. Wu, T.-Y. Lau, Y.-F. Huang. _Humour Classification According to Genre and Technique by Fine-tuning LLMs_
 
 ### Lab Overviews 1 (Salón de Actos)
 * **11:30 - 13:15**	Lab Overviews 1 [Salón de Actos]: LifeCLEF, BioASK, Touché, JOKER, LongEval
