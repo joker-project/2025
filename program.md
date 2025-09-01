@@ -11,6 +11,7 @@
 
 * [CLEF 2025 registration](https://clef2025.clef-initiative.eu/index.php?page=Pages/registrationConference.html)
 * [CLEF 2025 program](https://clef2025.clef-initiative.eu/index.php?page=Pages/programme.html)
+  
 <!---* [CLEF 2025 LNCS Proceedings, Vol I](https://doi.org/10.1007/978-3-031-71736-9)
 * [CLEF 2025 LNCS Proceedings, Vol II](https://doi.org/10.1007/978-3-031-71908-0)
 * [CLEF 2025 Working Notes](https://ceur-ws.org/Vol-3740/)-->
