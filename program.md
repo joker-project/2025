@@ -53,7 +53,7 @@ _Overview of the CLEF 2025 JOKER Task 3: Onomastic Wordplay Translation_.
 
 * **14:45 - 15:45** Participants presentations (10+2 min)
   
-* Tanish Chaudhari, Ansh Vora, Sanjeev Hotha and Sheetal Sonawane.
+* 📶Tanish Chaudhari, <ins>Ansh Vora</ins>, Sanjeev Hotha and Sheetal Sonawane.
 _PICT at CLEF 2025 JOKER Task 1: BERT-Enhanced Ensemble Methods_.
 <!---([Paper](https://ceur-ws.org/Vol-3740/paper-183.pdf))-->
 
@@ -65,10 +65,10 @@ _No Pun Left Behind: Skommarkos at CLEF 2025 JOKER Lab Tasks 1 \& 2 - Humour Ret
 _CLEF 2025 JOKER Track Enhancing Humor-Aware Information Retrieval with Relevance-Aware Classification_.
 <!---([Paper](https://ceur-ws.org/Vol-3740/paper-173.pdf))-->
 
-* Poojan Vachharajani.
+* <ins>Poojan Vachharajani</ins>.
 _pjmathematician at the CLEF 2025 JOKER Lab Tasks 1, 2 & 3: A Unified Approach to Humour Retrieval and Translation using the Qwen LLM Family_.
 
-* Alecsandru Kreefft-Libiu, Finley Helms, Cem Selçuk, Jan Bakker and Jaap Kamps.
+* <ins>Alecsandru Kreefft-Libiu</ins>, Finley Helms, Cem Selçuk, Jan Bakker and Jaap Kamps.
 _University of Amsterdam at the CLEF 2025 JOKER Track_.
 <!---([Paper](https://ceur-ws.org/Vol-3740/paper-172.pdf), [Slides](slides/JokerCLEF2024Epron.pdf))-->
 
