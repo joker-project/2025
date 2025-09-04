@@ -57,7 +57,7 @@ _Overview of the CLEF 2025 JOKER Task 3: Onomastic Wordplay Translation_.
 _PICT at CLEF 2025 JOKER Task 1: BERT-Enhanced Ensemble Methods_.
 <!---([Paper](https://ceur-ws.org/Vol-3740/paper-183.pdf))-->
 
-* Igor Kuzmin.
+* 📶<ins>Igor Kuzmin</ins>.
 _No Pun Left Behind: Skommarkos at CLEF 2025 JOKER Lab Tasks 1 \& 2 - Humour Retrieval and Translation_.
 <!---([Paper](https://ceur-ws.org/Vol-3740/paper-181.pdf), [Slides](slides/clef24uva-joker.pdf))-->
 
