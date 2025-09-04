@@ -86,7 +86,7 @@ _REC_Cryptix at JOKER CLEF 2025: Teaching Machines to Laugh: Multilingual Humor 
 _Pun Intended: Multi-Agent Translation of Wordplay with Contrastive Learning and Phonetic-Semantic Embeddings for CLEF JOKER 2025 Task 2_.
 <!---([Paper](https://ceur-ws.org/Vol-3740/paper-174.pdf))-->
 
-* Duvan Andres Marrugo Tobon, Jeison David Jimenez, Jairo Serrano, Juan Carlos Martinez Santos and Edwin Puertas.
+* 📶<ins>Duvan Andres Marrugo Tobon</ins>, Jeison David Jimenez, Jairo Serrano, Juan Carlos Martinez Santos and Edwin Puertas.
 _UTBNLP at CLEF JOKER 2025 Task 2: mBART-50 Fine-Tuning with Dictionary-Guided Forced Decoding and Phoneme-Based Techniques for English-French Pun Translation_.
 <!---([Paper](https://ceur-ws.org/Vol-3740/paper-178.pdf), [Slides](slides/JokerCLEF2024Popova.pdf))-->
 
