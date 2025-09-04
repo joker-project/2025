@@ -52,6 +52,10 @@ _Overview of the CLEF 2025 JOKER Task 3: Onomastic Wordplay Translation_.
 <!---([Paper](https://ceur-ws.org/Vol-3740/paper-167.pdf))-->
 
 * **14:45 - 15:45** Participants presentations (10+2 min)
+
+* 📶<ins>Duvan Andres Marrugo Tobon</ins>, Jeison David Jimenez, Jairo Serrano, Juan Carlos Martinez Santos and Edwin Puertas.
+_UTBNLP at CLEF JOKER 2025 Task 2: mBART-50 Fine-Tuning with Dictionary-Guided Forced Decoding and Phoneme-Based Techniques for English-French Pun Translation_.
+<!---([Paper](https://ceur-ws.org/Vol-3740/paper-178.pdf), [Slides](slides/JokerCLEF2024Popova.pdf))-->
   
 * 📶Tanish Chaudhari, <ins>Ansh Vora</ins>, Sanjeev Hotha and Sheetal Sonawane.
 _PICT at CLEF 2025 JOKER Task 1: BERT-Enhanced Ensemble Methods_.
@@ -68,14 +72,15 @@ _CLEF 2025 JOKER Track Enhancing Humor-Aware Information Retrieval with Relevanc
 * <ins>Poojan Vachharajani</ins>.
 _pjmathematician at the CLEF 2025 JOKER Lab Tasks 1, 2 & 3: A Unified Approach to Humour Retrieval and Translation using the Qwen LLM Family_.
 
-* <ins>Alecsandru Kreefft-Libiu</ins>, Finley Helms, Cem Selçuk, Jan Bakker and Jaap Kamps.
-_University of Amsterdam at the CLEF 2025 JOKER Track_.
-<!---([Paper](https://ceur-ws.org/Vol-3740/paper-172.pdf), [Slides](slides/JokerCLEF2024Epron.pdf))-->
 
 ### JOKER Session 2
 
 * **16:30 - 17:30** CLEF 2024 Participant presentations (10+2 minutes).
 
+<!---([Paper](https://ceur-ws.org/Vol-3740/paper-172.pdf), [Slides](slides/JokerCLEF2024Epron.pdf))-->
+
+* <ins>Alecsandru Kreefft-Libiu</ins>, Finley Helms, Cem Selçuk, Jan Bakker and Jaap Kamps.
+_University of Amsterdam at the CLEF 2025 JOKER Track_.
 <!---([Paper](https://ceur-ws.org/Vol-3740/paper-172.pdf), [Slides](slides/JokerCLEF2024Epron.pdf))-->
 
 * Sarath Kumar P, Beulah A, Sushmitha M and Thanalaxmi S.
@@ -85,10 +90,6 @@ _REC_Cryptix at JOKER CLEF 2025: Teaching Machines to Laugh: Multilingual Humor 
 * Russell Taylor, Benajmin Herbert and Michael Sana.
 _Pun Intended: Multi-Agent Translation of Wordplay with Contrastive Learning and Phonetic-Semantic Embeddings for CLEF JOKER 2025 Task 2_.
 <!---([Paper](https://ceur-ws.org/Vol-3740/paper-174.pdf))-->
-
-* 📶<ins>Duvan Andres Marrugo Tobon</ins>, Jeison David Jimenez, Jairo Serrano, Juan Carlos Martinez Santos and Edwin Puertas.
-_UTBNLP at CLEF JOKER 2025 Task 2: mBART-50 Fine-Tuning with Dictionary-Guided Forced Decoding and Phoneme-Based Techniques for English-French Pun Translation_.
-<!---([Paper](https://ceur-ws.org/Vol-3740/paper-178.pdf), [Slides](slides/JokerCLEF2024Popova.pdf))-->
 
 * Giorgos Arampatzis and Avi Arampatzis.
 _DUTH at CLEF JOKER 2025 Tasks 2 and 3: Translating Puns and Proper Names with Neural Approaches_.
