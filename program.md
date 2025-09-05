@@ -95,7 +95,7 @@ _Pun Intended: Multi-Agent Translation of Wordplay with Contrastive Learning and
 _DUTH at CLEF JOKER 2025 Tasks 2 and 3: Translating Puns and Proper Names with Neural Approaches_.
 <!---([Paper](https://ceur-ws.org/Vol-3740/paper-176.pdf))-->
 
-* Maria Paz Ramirez Atencio, Jeison D. Jimenez, Deyson Gómez, Jairo E. Serrano, Edwin Puertas and Juan C. Martinez Santos.
+* 📶<ins>Maria Paz Ramirez Atencio</ins>, Jeison D. Jimenez, Deyson Gómez, Jairo E. Serrano, Edwin Puertas and Juan C. Martinez Santos.
 _VerbaNexAI at CLEF 2025 JOKER Task 3: Multi-Model LLM Approach for Onomastic Wordplay Translation_.
 <!---([Paper](https://ceur-ws.org/Vol-3740/paper-180.pdf))-->
 
