@@ -87,7 +87,7 @@ _University of Amsterdam at the CLEF 2025 JOKER Track_.
 _REC_Cryptix at JOKER CLEF 2025: Teaching Machines to Laugh: Multilingual Humor Detection and Translation_.
 <!---([Paper](https://ceur-ws.org/Vol-3740/paper-171.pdf), [Slides](slides/JokerCLEF2024ReginaPetra.pdf))-->
 
-* Russell Taylor, Benajmin Herbert and Michael Sana.
+* <ins>Russell Taylor</ins>, Benajmin Herbert and Michael Sana.
 _Pun Intended: Multi-Agent Translation of Wordplay with Contrastive Learning and Phonetic-Semantic Embeddings for CLEF JOKER 2025 Task 2_.
 <!---([Paper](https://ceur-ws.org/Vol-3740/paper-174.pdf))-->
 
