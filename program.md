@@ -32,7 +32,7 @@ JOKER Sessions take place in the **Ricardo Marín** room (_Facultad de Educació
 * **11:30 - 13:15**	Lab Overviews 1 [Salón de Actos]: LifeCLEF, BioASK, Touché, JOKER, LongEval
 
 * **Liana Ermakova**, Ricardo Campos, Anne-Gwenn Bosser, Tristan Miller. 2025. _Overview of the CLEF 2025 JOKER Lab: Humour in Machine_
-([Paper](https://link.springer.com/content/pdf/10.1007/978-3-032-04354-2_18))
+([Paper](https://link.springer.com/content/pdf/10.1007/978-3-032-04354-2_18), [Slides](slides/CLEF25JOKER-Track_Overview.pdf))
 
 ### JOKER Session 1 (Room Ricardo Marín)
 
@@ -40,15 +40,15 @@ JOKER Sessions take place in the **Ricardo Marín** room (_Facultad de Educació
 
 * **Liana Ermakova**, Ricardo Campos, Anne-Gwenn Bosser, Tristan Miller. 
 _Overview of the CLEF 2025 JOKER Task 1: Humour-aware Information Retrieval_.
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_218.pdf))
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_218.pdf), [Slides](slides/CLEF25JOKER-Task_Overview.pdf))
 
 * **Liana Ermakova**, Anne-Gwenn Bosser, Tristan Miller, Ricardo Campos.
 _Overview of the CLEF 2025 JOKER Task 2: Wordplay Translation from English into French_. 
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_219.pdf))
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_219.pdf), [Slides](slides/CLEF25JOKER-Task_Overview.pdf))
 
 * **Liana Ermakova**, Tristan Miller, Yaël Naud, Anne-Gwenn Bosser, Ricardo Campos. 
 _Overview of the CLEF 2025 JOKER Task 3: Onomastic Wordplay Translation_.
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_220.pdf))
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_220.pdf), [Slides](slides/CLEF25JOKER-Task_Overview.pdf))
 
 * **14:45 - 15:45** Participants presentations (10+5 min)
 
@@ -100,11 +100,11 @@ _VerbaNexAI at CLEF 2025 JOKER Task 3: Multi-Model LLM Approach for Onomastic Wo
     * We want to hear from *you*!
     * What was great about 2024, and what could we improve for you?
     * Any ideas or volunteers are welcome!
-    * JOKER roadmap 
+    * JOKER roadmap ([Slides](slides/CLEF26JOKER-Track_Overview.pdf)).
 
 ## Closing and Introduction of CLEF 2026 (Salón de Actos – Facultad de Educación) - Friday 12 September
 
-* **13:00 - 14:00** Closing and plans for 2026 
+* **13:00 - 14:00** Closing and plans for 2026 (including the CLEF 2026 JOKER Track, [Slides](slides/CLEF26JOKER-Track_Overview.pdf)).
 
 ## All CLEF 2025 JOKER track papers 
 
