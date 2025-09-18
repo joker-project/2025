@@ -52,15 +52,15 @@ _Overview of the CLEF 2025 JOKER Task 3: Onomastic Wordplay Translation_.
 
 * **14:45 - 15:45** Participants presentations (10+5 min)
 
-* 📶<ins>Duvan Andres Marrugo Tobon</ins>, Jeison David Jimenez, Jairo Serrano, Juan Carlos Martinez Santos and Edwin Puertas.
+* 📶 <ins>Duvan Andres Marrugo Tobon</ins>, Jeison David Jimenez, Jairo Serrano, Juan Carlos Martinez Santos and Edwin Puertas.
 _UTBNLP at CLEF JOKER 2025 Task 2: mBART-50 Fine-Tuning with Dictionary-Guided Forced Decoding and Phoneme-Based Techniques for English-French Pun Translation_.
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_226.pdf))
   
-* 📶Tanish Chaudhari, <ins>Ansh Vora</ins>, Sanjeev Hotha and Sheetal Sonawane.
+* 📶 Tanish Chaudhari, <ins>Ansh Vora</ins>, Sanjeev Hotha and Sheetal Sonawane.
 _PICT at CLEF 2025 JOKER Task 1: BERT-Enhanced Ensemble Methods_.
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_222.pdf))
 
-* 📶<ins>Igor Kuzmin</ins>.
+* 📶 <ins>Igor Kuzmin</ins>.
 _No Pun Left Behind: Skommarkos at CLEF 2025 JOKER Lab Tasks 1 \& 2 - Humour Retrieval and Translation_.
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_225.pdf))
 
@@ -84,7 +84,7 @@ _University of Amsterdam at the CLEF 2025 JOKER Track_.
 _REC_Cryptix at JOKER CLEF 2025: Teaching Machines to Laugh: Multilingual Humor Detection and Translation_.
 ([Paper](https://ceur-ws.org/Vol-3740/paper-171.pdf), [Slides](slides/JokerCLEF2024ReginaPetra.pdf))-->
 
-* 📶<ins>Russell Taylor</ins>, Benajmin Herbert and Michael Sana.
+* 📶 <ins>Russell Taylor</ins>, Benajmin Herbert and Michael Sana.
 _Pun Intended: Multi-Agent Translation of Wordplay with Contrastive Learning and Phonetic-Semantic Embeddings for CLEF JOKER 2025 Task 2_.
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_229.pdf))
 
@@ -92,7 +92,7 @@ _Pun Intended: Multi-Agent Translation of Wordplay with Contrastive Learning and
 _DUTH at CLEF JOKER 2025 Tasks 2 and 3: Translating Puns and Proper Names with Neural Approaches_.
 ([Paper](https://ceur-ws.org/Vol-3740/paper-176.pdf))-->
 
-* 📶<ins>Maria Paz Ramirez Atencio</ins>, Jeison D. Jimenez, Deyson Gómez, Jairo E. Serrano, Edwin Puertas and Juan C. Martinez Santos.
+* 📶 <ins>Maria Paz Ramirez Atencio</ins>, Jeison D. Jimenez, Deyson Gómez, Jairo E. Serrano, Edwin Puertas and Juan C. Martinez Santos.
 _VerbaNexAI at CLEF 2025 JOKER Task 3: Multi-Model LLM Approach for Onomastic Wordplay Translation_.
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_228.pdf))
 
