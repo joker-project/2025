@@ -54,15 +54,15 @@ _Overview of the CLEF 2025 JOKER Task 3: Onomastic Wordplay Translation_.
 
 * 📶<ins>Duvan Andres Marrugo Tobon</ins>, Jeison David Jimenez, Jairo Serrano, Juan Carlos Martinez Santos and Edwin Puertas.
 _UTBNLP at CLEF JOKER 2025 Task 2: mBART-50 Fine-Tuning with Dictionary-Guided Forced Decoding and Phoneme-Based Techniques for English-French Pun Translation_.
-<!---([Paper](https://ceur-ws.org/Vol-3740/paper-178.pdf), [Slides](slides/JokerCLEF2024Popova.pdf))-->
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_226.pdf))
   
 * 📶Tanish Chaudhari, <ins>Ansh Vora</ins>, Sanjeev Hotha and Sheetal Sonawane.
 _PICT at CLEF 2025 JOKER Task 1: BERT-Enhanced Ensemble Methods_.
-<!---([Paper](https://ceur-ws.org/Vol-3740/paper-183.pdf))-->
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_222.pdf))
 
 * 📶<ins>Igor Kuzmin</ins>.
 _No Pun Left Behind: Skommarkos at CLEF 2025 JOKER Lab Tasks 1 \& 2 - Humour Retrieval and Translation_.
-<!---([Paper](https://ceur-ws.org/Vol-3740/paper-181.pdf), [Slides](slides/clef24uva-joker.pdf))-->
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_225.pdf))
 
 <!---* Bo Chen, Changle Zhong and Leilei Kong.
 _CLEF 2025 JOKER Track Enhancing Humor-Aware Information Retrieval with Relevance-Aware Classification_.
@@ -70,13 +70,11 @@ _CLEF 2025 JOKER Track Enhancing Humor-Aware Information Retrieval with Relevanc
 
 * <ins>Poojan Vachharajani</ins>.
 _pjmathematician at the CLEF 2025 JOKER Lab Tasks 1, 2 & 3: A Unified Approach to Humour Retrieval and Translation using the Qwen LLM Family_.
-
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_230.pdf))
 
 ### JOKER Session 2
 
 * **16:30 - 17:30** CLEF 2024 Participant presentations (10+5 minutes).
-
-<!---([Paper](https://ceur-ws.org/Vol-3740/paper-172.pdf), [Slides](slides/JokerCLEF2024Epron.pdf))-->
 
 * <ins>Alecsandru Kreefft-Libiu</ins>, Finley Helms, Cem Selçuk, Jan Bakker and Jaap Kamps.
 _University of Amsterdam at the CLEF 2025 JOKER Track_.
@@ -88,7 +86,7 @@ _REC_Cryptix at JOKER CLEF 2025: Teaching Machines to Laugh: Multilingual Humor 
 
 * 📶<ins>Russell Taylor</ins>, Benajmin Herbert and Michael Sana.
 _Pun Intended: Multi-Agent Translation of Wordplay with Contrastive Learning and Phonetic-Semantic Embeddings for CLEF JOKER 2025 Task 2_.
-<!---([Paper](https://ceur-ws.org/Vol-3740/paper-174.pdf))-->
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_229.pdf))
 
 <!---* Giorgos Arampatzis and Avi Arampatzis.
 _DUTH at CLEF JOKER 2025 Tasks 2 and 3: Translating Puns and Proper Names with Neural Approaches_.
@@ -96,7 +94,7 @@ _DUTH at CLEF JOKER 2025 Tasks 2 and 3: Translating Puns and Proper Names with N
 
 * 📶<ins>Maria Paz Ramirez Atencio</ins>, Jeison D. Jimenez, Deyson Gómez, Jairo E. Serrano, Edwin Puertas and Juan C. Martinez Santos.
 _VerbaNexAI at CLEF 2025 JOKER Task 3: Multi-Model LLM Approach for Onomastic Wordplay Translation_.
-<!---([Paper](https://ceur-ws.org/Vol-3740/paper-180.pdf))-->
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_228.pdf))
 
 * **17:30 - 18:00** Additional participants' talks, Round table and break-out JOKER 2026 discussion
     * We want to hear from *you*!
