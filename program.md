@@ -81,7 +81,7 @@ _pjmathematician at the CLEF 2025 JOKER Lab Tasks 1, 2 & 3: A Unified Approach t
 
 * <ins>Alecsandru Kreefft-Libiu</ins>, Finley Helms, Cem Selçuk, Jan Bakker and Jaap Kamps.
 _University of Amsterdam at the CLEF 2025 JOKER Track_.
-<!---([Paper](https://ceur-ws.org/Vol-3740/paper-172.pdf), [Slides](slides/JokerCLEF2024Epron.pdf))-->
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_224.pdf), [Slides](slides/CLEF25JOKER-UvA.pdf))
 
 <!---* Sarath Kumar P, Beulah A, Sushmitha M and Thanalaxmi S.
 _REC_Cryptix at JOKER CLEF 2025: Teaching Machines to Laugh: Multilingual Humor Detection and Translation_.
@@ -109,81 +109,58 @@ _VerbaNexAI at CLEF 2025 JOKER Task 3: Multi-Model LLM Approach for Onomastic Wo
 
 * **13:00 - 14:00** Closing and plans for 2026 
 
-<!---## All CLEF 2024 JOKER track papers 
+## All CLEF 2025 JOKER track papers 
 
-* Liana Ermakova, Anne-Gwenn Bosser, Tristan Miller, Adam Jatowt. 
-_Overview of the CLEF 2024 JOKER Task 1: Humour-aware Information Retrieval_. 
-([Paper](https://ceur-ws.org/Vol-3740/paper-165.pdf))
+* Liana Ermakova, Tristan Miller, Yaël Naud, Anne-Gwenn Bosser, Ricardo Campos.
+_Overview of the CLEF 2025 JOKER Task 1: Humour-aware Information Retrieval_, 2744-2760.
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_218.pdf))
 
-* Victor Manuel Palma Preciado, Grigori Sidorov, Liana Ermakova, Anne-Gwenn Bosser, Tristan Miller, Adam Jatowt. 
-_Overview of the CLEF 2024 JOKER Task 2: Humour Classification According to Genre and Technique_. 
-([Paper](https://ceur-ws.org/Vol-3740/paper-166.pdf))
+* Liana Ermakova, Tristan Miller, Yaël Naud, Anne-Gwenn Bosser, Ricardo Campos.
+_Overview of the CLEF 2025 JOKER Task 2: Wordplay Translation from English into French_, 2761-2779.
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_219.pdf))
 
-* Liana Ermakova, Anne-Gwenn Bosser, Tristan Miller, Adam Jatowt. 
-_Overview of the CLEF 2024 JOKER Task 3: Translate puns from English to French_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-167.pdf))
+* Liana Ermakova, Tristan Miller, Yaël Naud, Anne-Gwenn Bosser, Ricardo Campos.
+_Overview of the CLEF 2025 JOKER Task 3: Onomastic Wordplay Translation_, 2780-2790.
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_220.pdf))
 
-* Harouna Baguian, Huynh Nina Ashley. 
-_JOKER Track @ CLEF 2024: the Jokesters' approaches for retrieving, classifying, and translating wordplay_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-168.pdf))
+* Georgios Arampatzis, Avi Arampatzis.
+_DUTH at CLEF JOKER 2025 Tasks 2 and 3: Translating Puns and Proper Names with Neural Approaches_, 2791-2802.
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_221.pdf))
 
-* Antonia Bartulović, Dóra Paula Váradi. 
-_University of Split and University of Malta (Team AB&DPV) at the CLEF 2024 JOKER Track: From ‘LOL’ to ‘MDR’ Using Artificial Intelligence Models to Retrieve and Translate Puns_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-169.pdf))
+* Tanish Chaudhari, Ansh Vora, Sanjeev Hotha, Sheetal Sonawane.
+_PICT at CLEF 2025 JOKER Track: Humour-Aware Information Retrieval using BERT-Enhanced Ensemble Methods_, 2803-2812.
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_222.pdf))
 
-* Ryan Rony Dsilva, Nidhi Bhardwaj. 
-_PunDerstand @ CLEF JOKER 2024: Who’s Laughing Now? Humor Classification by Genre & Technique_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-170.pdf))
+* Bo Chen, Changle Zhong, Leilei Kong.
+_CLEF 2025 JOKER Track Enhancing Humor-Aware Information Retrieval with Relevance-Aware Classification_, 2813-2820.
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_223.pdf))
 
-* Regina Elagina, Petra Vučić.
-_Working Notes of CLEF 2024: Effective Humor Analysis and Translation_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-171.pdf))
+* Alecsandru Kreefft-Libiu, Finley Helms, Cem Selçuk, Jan Bakker, Jaap Kamps.
+_University of Amsterdam at the CLEF 2025 JOKER Track_, 2821-2828.
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_224.pdf))
 
-* Pierre Epron, Gaël Guibon, Miguel Couceiro.
-_ORPAILLEUR & SyNaLP at CLEF 2024 Task 2: Good Old Cross Validation for Large Language Models Yields the Best Humorous Detection_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-172.pdf))
+* Igor Kuzmin.
+_CLEF 2025 JOKER Track: No Pun Left Behind_, 2829-2837.
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_225.pdf))
 
-* Arina Gepalova, Adrian-Gabriel Chifu, Sébastien Fournier.
-_CLEF 2024 Joker Task 1: Exploring Pun Detection Using The T5 Transformer Model_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-173.pdf))
+* Duvan Andres Marrugo-Tobon, Jeison D. Jimenez, Jairo E. Serrano, Juan C. Martinez-Santos, Edwin Puertas.
+_UTBNLP at CLEF JOKER 2025 Task 2: mBART-50 Fine-Tuning with Dictionary-Guided Forced Decoding and Phoneme-Based Techniques for English-French Pun Translation_, 2838-2848.
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_226.pdf))
 
-* Jana Viktória Kováčiková, Marek Šuppa.
-_Thinking, Fast and Slow: From the Speed of FastText to the Depth of Retrieval Augmented Large Language Models For Humour Classification_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-174.pdf))
+* Sarath Kumar P, Beulah A, Sushmitha M, Thanalaxmi S.
+_REC_Cryptix at JOKER CLEF 2025: Teaching Machines to Laugh: Multilingual Humor Detection and Translation_, 2849-2859.
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_227.pdf))
 
-* Rowan Mann, Tomislav Mikulandric.
-_CLEF 2024 JOKER Tasks 1-3: Humour identification and classification_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-175.pdf))
+* Maria Paz Ramirez Atencio, Jeison D. Jimenez, Deyson Gómez Sánchez, Jairo E. Serrano, Juan C. Martinez-Santos, Edwin Puertas. 
+_VerbaNexAI at CLEF 2025 JOKER Task 3: Multi-Model LLM Approach for Onomastic Wordplay Translation_, 2860-2869.
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_228.pdf))
 
-* Sarvesh Narayanan, Jayasimman J, Shiva Ganesh V.
-_CLEF 2024 JOKER Task 2 : Using RoBERTa and Bert-uncased for Humour Classification According to Genre and Technique_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-176.pdf))
+* Russell Taylor, Benjamin Herbert, Michael Sana.
+_Pun Intended: Multi-Agent Translation of Wordplay with Contrastive Learning and Phonetic-Semantic Embeddings for CLEF JOKER 2025 Task_, 22870-2888.
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_229.pdf))
 
-* Victor Manuel Palma-Preciado, Carolina Palma-Preciado, Grigori Sidorov.
-_NLPalma Joker 2024: Yet, no Humor with Humorousness - Task 2 Humour Classification According to Genre and Technique_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-177.pdf))
+* Poojan Vachharajani.
+_pjmathematician at the CLEF 2025 JOKER Lab Tasks 1, 2 & 3: A Unified Approach to Humour Retrieval and Translation using the Qwen LLM Family_, 2889-2897.
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_230.pdf))
 
-* Olga Popova.
-_Comparative Evaluation of Humour Translation from English to Spanish: A Study with BLOOM and Googletrans_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-178.pdf))
 
-* Dhannya S M, Lakshmi Priya S, Shreedevi Seluka Balaji, Sai Nikitha N.S.R, Shwetha S, Surabhi Kamath, Srinidhi Lakshmi Narayanan.
-_Vayam Solve Kurmaha @ CLEF 2024: Task 2: Humor Classification according to Genre and Technique using BERT Embeddings and Transformers_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-179.pdf))
-
-* M Saipranav, Jaswanth Sridharan, Gautham Narayan G, Angel Deborah S, Rajalakshmi S, Mirnalinee T T, Samyuktaa Sivakumar.
-_CLEF 2024 JOKER Task 2: Using BERT and Random Forest Classifier for Humor Classification According to Genre and Technique_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-180.pdf))
-
-* Emma Schuurman, Mick Cazemier, Luc Buijs, Jaap Kamps.
-_University of Amsterdam at the CLEF 2024 Joker Track_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-181.pdf))
-
-* Rakshith Subramanian, Vaishnavi S, B Bharathi.
-_Team Humour Insights at JOKER 2024 Task 2: Humour Classification According To Genre And Technique_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-182.pdf))
-
-* Shih-Hung Wu, Yu-Feng Huang, Tsz-Yeung Lau.
-_Humour Classification by Fine-tuning LLMs: CYUT at CLEF 2024 JOKER Lab Subtask Humour Classification According to Genre and Technique_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-183.pdf))
--->
