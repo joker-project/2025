@@ -25,31 +25,30 @@ JOKER Sessions take place in the **Ricardo Marín** room (_Facultad de Educació
 ## Tuesday 9th September 
 
 ### Best of the Lab 2024 (Salón de Actos)
-* **10:00 – 10:20** S.-H. Wu, T.-Y. Lau, Y.-F. Huang. _Humour Classification According to Genre and Technique by Fine-tuning LLMs_
+* **10:00 – 10:20** S.-H. Wu, T.-Y. Lau, Y.-F. Huang. _Humour Classification According to Genre and Technique by Fine-tuning LLMs_.
+([Paper](https://link.springer.com/content/pdf/10.1007/978-3-032-04354-2_11))
 
 ### Lab Overviews 1 (Salón de Actos)
 * **11:30 - 13:15**	Lab Overviews 1 [Salón de Actos]: LifeCLEF, BioASK, Touché, JOKER, LongEval
 
 * **Liana Ermakova**, Ricardo Campos, Anne-Gwenn Bosser, Tristan Miller. 2025. _Overview of the CLEF 2025 JOKER Lab: Humour in Machine_
-<!---, in:
-Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](https://doi.org/10.1007/978-3-031-71908-0_8), [Slides](slides/JOKER_CLEF_2024_presentation.pdf)).-->
-
+([Paper](https://link.springer.com/content/pdf/10.1007/978-3-032-04354-2_18))
 
 ### JOKER Session 1 (Room Ricardo Marín)
 
 * **14:15 - 14:45** CLEF 2025 JOKER Task Overviews <!---([Slides](slides/CLEF24_JOKER_Task_Overviews.pdf))-->:
 
 * **Liana Ermakova**, Ricardo Campos, Anne-Gwenn Bosser, Tristan Miller. 
-_Overview of the CLEF 2025 JOKER Task 1: Humour-aware Information Retrieval_. 
-<!---([Paper](https://ceur-ws.org/Vol-3740/paper-165.pdf))-->
+_Overview of the CLEF 2025 JOKER Task 1: Humour-aware Information Retrieval_.
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_218.pdf))
 
 * **Liana Ermakova**, Anne-Gwenn Bosser, Tristan Miller, Ricardo Campos.
 _Overview of the CLEF 2025 JOKER Task 2: Wordplay Translation from English into French_. 
-<!---([Paper](https://ceur-ws.org/Vol-3740/paper-166.pdf))-->
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_219.pdf))
 
 * **Liana Ermakova**, Tristan Miller, Yaël Naud, Anne-Gwenn Bosser, Ricardo Campos. 
 _Overview of the CLEF 2025 JOKER Task 3: Onomastic Wordplay Translation_.
-<!---([Paper](https://ceur-ws.org/Vol-3740/paper-167.pdf))-->
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_220.pdf))
 
 * **14:45 - 15:45** Participants presentations (10+5 min)
 
@@ -110,6 +109,10 @@ _VerbaNexAI at CLEF 2025 JOKER Task 3: Multi-Model LLM Approach for Onomastic Wo
 * **13:00 - 14:00** Closing and plans for 2026 
 
 ## All CLEF 2025 JOKER track papers 
+
+### Including authors unable to present in-person or online:
+
+Humour in the Machine (JOKER)
 
 * Liana Ermakova, Tristan Miller, Yaël Naud, Anne-Gwenn Bosser, Ricardo Campos.
 _Overview of the CLEF 2025 JOKER Task 1: Humour-aware Information Retrieval_, 2744-2760.
